@@ -26,6 +26,8 @@
 ###############################################################################
 #
 # VERSION HISTORY
+#  0.5.1	Released 22/12/2020
+#               Allow for DLA LTS Debian update checks
 #  0.5.0	Released 24/03/2017 
 #		Add OpenSuSE checks
 #		Major release after multiple bug fixes from 0.4.7 release
@@ -46,9 +48,9 @@
 #
 ###############################################################################
 
-# Latest version (0.5.0) released on March 24 2017
-# nopc.sh - 0.5.0 (a)
-nopc_version="nopc.sh  0.5.0a"
+# Latest version (0.51) released on December 22 2020
+# nopc.sh - 0.5.1 (a)
+nopc_version="nopc.sh  0.5.1"
 
 #
 # The following OS/Distros are potentially supported:
