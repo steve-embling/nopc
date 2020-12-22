@@ -555,7 +555,7 @@ setDebian(){
 	
 	system=5
 	system_name="Debian"
-	nessus_filematch="debian_DSA"
+	nessus_filematch="debian_D"
 	
 	# Instructions String
 	patch_ins="Run 'dpkg -l|cat > patchlist.txt'"
